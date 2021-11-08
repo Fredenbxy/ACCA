@@ -2,4 +2,4 @@ Hello bxy!
 success!
 master change!
 hotfix change!
-master change 2!
+master change   2!
